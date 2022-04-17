@@ -20,6 +20,8 @@
 ### 👖 청바지(청년 정책 큐레이션 사이트) 프로젝트의 <u>팀장</u> 및 백엔드 개발을 맡았습니다 
 
 ### 🔊 청바지 소개 : https://bit.ly/37X3NuC  <br></br> 💎 청바지 사이트 : https://y-benefit.com
+
+### 🙋‍♂️ 청바지 발표 영상(9분) : https://www.youtube.com/watch?v=SMpl-sdCmDE
 ***
 ### 🔻🔻기여한 프로젝트 레포지토리🔻🔻
  
