@@ -3,7 +3,7 @@
 
 ### 👖 청바지 프로젝트의 팀장 및 백엔드 개발을 맡았습니다 👖
 
-#### 📢 청바지 소개 : https://bit.ly/37X3NuC 📌 청바지 사이트 : https://y-benefit.com
+#### 📢 청바지 소개 : https://bit.ly/37X3NuC   📌 청바지 사이트 : https://y-benefit.com
 
 ![Jaehyun Woo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ausdauer1&show_icons=true&theme=tokyonight)
 
