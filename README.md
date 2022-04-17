@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=transparent&color=blue&height=300&section=header&text=welcome&desc=Jaehyun%20Woo&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=42564F&height=300&section=header&text=welcome&desc=Jaehyun%20Woo&fontSize=90)
   </div>
   
 ---
