@@ -1,6 +1,11 @@
-## 안녕하세요 백앤드 개발자 우재현입니다!
-<img src="https://user-images.githubusercontent.com/97427803/163729943-9cc6ba85-c659-4af1-a1ca-4f441ceda40e.png" width="300" height="200"/>
+## 안녕하세요 백엔드 개발자 우재현입니다!
 
+### 👖 청바지 프로젝트의 팀장 및 백엔드 개발을 맡았습니다 👖
+
+### 청바지 - 청년 정책 큐레이션 사이트
+
+📢 청바지 소개 : https://bit.ly/37X3NuC
+📌 청바지 사이트 : https://y-benefit.com
 
 ![Jaehyun Woo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ausdauer1&show_icons=true&theme=tokyonight)
 
