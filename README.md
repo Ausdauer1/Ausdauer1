@@ -1,5 +1,5 @@
 ## 안녕하세요😄 주니어 백엔드 개발자 우재현입니다!
- **contact me** : 010-6853-1257 // steady051@gmail.com
+ **contact me** : 010-6853-1257
  <p></p>
 
 ![Jaehyun Woo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ausdauer1&show_icons=true&theme=tokyonight)
