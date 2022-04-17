@@ -1,6 +1,12 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=transparent&color=42564F&height=300&section=header&text=welcome&desc=Jaehyun%20Woo&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=transparent&color={
+            "0" : "c2e59c",
+            "100" : "64b3f4"
+        },
+        "text": "f7f5f5",
+        "textBg": "282829"
+    }&height=300&section=header&text=welcome&desc=Jaehyun%20Woo&fontSize=90)
   </div>
   
 ---
