@@ -9,7 +9,6 @@
 
 
 ### 🛠 Tools
-
 ![](https://img.shields.io/badge/Amazon_RDS-007AAC?style=flat-square&logo=AmazonAWS&logoColor=white) 
 ![](https://img.shields.io/badge/Amazon_EC2-F5792A?style=flat-square&logo=AmazonAWS&logoColor=white)
 ![](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=PM2&logoColor=white)
