@@ -1,6 +1,6 @@
 ## 안녕하세요 주니어 백엔드 개발자 우재현입니다!
 
-<p> contact me <br>
+##### contact me <br>
 010-6853-1257 <br>
  031steady@gmail.com
 </p>
