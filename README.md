@@ -15,7 +15,7 @@
 ![](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=PM2&logoColor=white)
 ![](https://img.shields.io/badge/Ubuntu-Cron-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
 
-
+---
 ### 👖 청바지(청년 정책 큐레이션 사이트) 프로젝트의 팀장 및 백엔드 개발을 맡았습니다 👖
 
 ### 📢 청바지 소개 : https://bit.ly/37X3NuC  <br></br>📌 청바지 사이트 : https://y-benefit.com
