@@ -16,6 +16,8 @@
 ![](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=PM2&logoColor=white)
 ![](https://img.shields.io/badge/Ubuntu-Cron-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
 
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAusdauer1&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
 ***
 ## 👖 청바지(청년 정책 큐레이션 사이트) 프로젝트의 <p></p>  팀장 및 백엔드 개발을 맡았습니다! 
 
